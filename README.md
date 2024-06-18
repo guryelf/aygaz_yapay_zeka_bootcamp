@@ -28,20 +28,20 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 ### 1.Depoyu Klonlayın:
 
-```ruby
+```python
 git clone https://github.com/guryelf/aygaz_yapay_zeka_bootcamp.git
 cd fashion-mnist-ml-comparison
 
 ```
 ### 2.Gerekli Kütüphaneleri Yükleyin:
 
-```ruby
+```python
 pip install -r requirements.txt
 ```
 
 ### 3.Jupyter Notebook'u Başlatın:
 
-```ruby
+```python
 jupyter notebook
 ```
 ### 4.Notebook'u Açın ve Çalıştırın:
