@@ -68,7 +68,7 @@ Fashion MNIST, 10 farklı moda ürünü sınıfına ait 70,000 gri tonlamalı g�
 ### K-Nearest Neighbors (KNN):
 KNN, her bir veri noktasını en yakın komşularına göre sınıflandıran basit bir algoritmadır. Bu projede, n_neighbors=5 olarak belirlenmiştir.
 
-### Random Forest:
+### Random Forest:
 Random Forest, birden fazla karar ağacından oluşan bir topluluk yöntemidir. Ağaçların çoğunluk kararına göre sınıflandırma yapar.
 
 ### Decision Tree:
